@@ -1,7 +1,7 @@
 # Project-Xavier
 Our InfoSec community produces so much great content at security conferences, but unfortunately there's not a single repository which organizes the content based on defensive and offensive topics regardless of which conference it originated from. Project Xavier takes a stab at this systematic problem. It's main goal is to organize security talks based on topics such as Penetration Testing in the offensive security realm, or Malware Forensics on the Blue side of the house. Please fork this project, and contribute! 
 
-Red Team:
+	Red Team:
 	1. Penetration Testing
 		a. Mainframes
 		b. SQL Injection
@@ -40,7 +40,7 @@ Red Team:
 	7. Processes/Policies
 	8. War Stories
 
-Blue Team:
+	Blue Team:
 	1. Forensics
 	2. Incident Reponse
 	3. Employee Awareness
